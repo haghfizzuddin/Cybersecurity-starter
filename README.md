@@ -163,5 +163,5 @@ Cybersecurity Podcasts
   Detailed Cybersecurity Resources
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-  * [List of Tools Utilized for Security Testing](link to be add)
+  * [List of Tools Utilized for Security Testing](https://github.com/haghfizzuddin/Security-testing-tools/blob/master/README.md)
   * [The Full GoVanguard InfoSec Encyclopedia](to be add)
